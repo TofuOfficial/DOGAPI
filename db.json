@@ -1,0 +1,22 @@
+{"dog-breeds": [
+        
+        {
+            "weight":{"imperial":"20 - 30","metric":"9 - 14"},
+            "height":{"imperial":"14 - 15","metric":"36 - 38"},
+            "id":0,
+            "name":"Cocker Spaniel",
+            "bred_for":"Bird flushing, retrieving",
+            "life_span":"12 - 15 years",
+            "temperament":"Trainable, Friendly, Affectionate, Playful, Quiet, Faithful"
+        },
+        {
+            "weight":{"imperial":"55 - 70","metric":"25 - 30"},
+            "height":{"imperial":"14 - 15","metric":"36 - 38"},
+            "id":1,
+            "name":"Golden Retriever",
+            "bred_for":"Retrieving",
+            "life_span":"10 - 12 years",
+            "temperament":"Trainable, Friendly, Affectionate, Playful, Loud, Funny"
+        }
+    ]
+}
