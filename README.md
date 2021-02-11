@@ -14,3 +14,5 @@ The DOGAPI uses [JSON-Server](https://github.com/typicode/json-server) and [Hero
 
 ## Are there examples?
 Yes. There is one in the examples folder :)
+
+*Note: This project is just for fun.*
